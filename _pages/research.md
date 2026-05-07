@@ -4,8 +4,6 @@ title: "Research"
 author_profile: false
 ---
 
-# Research
-
 ## Cascading Extreme Events
 
 Understanding triggering mechanisms and cascading dynamics across natural hazards.
