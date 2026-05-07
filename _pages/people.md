@@ -4,8 +4,6 @@ title: "People"
 author_profile: false
 ---
 
-# People
-
 ## Principal Investigator
 
 ### Giuseppe Petrillo
