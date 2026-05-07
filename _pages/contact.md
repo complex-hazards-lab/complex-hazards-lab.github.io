@@ -4,8 +4,6 @@ title: "Contact"
 author_profile: false
 ---
 
-# Contact
-
 ## Complex Hazards Lab
 
 ENS de Lyon  
