@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Complex Hazards Lab
-
 The Complex Hazards Lab is a research group at ENS de Lyon and CNRS focused on cascading hazards, complex systems, and extreme events.
 
 We develop statistical and physics-based approaches to understand, model, and forecast natural and environmental hazards across multiple scales.
