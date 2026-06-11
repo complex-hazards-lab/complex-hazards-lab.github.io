@@ -1,10 +1,8 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: false
+author_profile: true
 ---
-
-# Publications
 
 The Complex Hazards Lab develops methods at the interface of statistical physics, stochastic processes, complex systems, and natural hazards, with a particular focus on earthquake forecasting, statistical seismology, volcanic unrest, induced seismicity, and extreme-event modeling.
 
