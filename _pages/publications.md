@@ -3,7 +3,8 @@ permalink: /publications/
 title: "Publications"
 author_profile: false
 ---
-Publications
+
+# Publicationsì
 
 The Complex Hazards Lab develops methods at the interface of statistical physics, stochastic processes, complex systems, and natural hazards, with a particular focus on earthquake forecasting, statistical seismology, volcanic unrest, induced seismicity, and extreme-event modeling.
 
@@ -12,11 +13,11 @@ Publication statistics
 * 44 peer-reviewed publications
 * 2 Physical Review Letters
 * 2 Nature Communications
-* 1 Nature Communications Earth & Environment
-* Others in Geophysical Research Letters, Geophysical Journal International, Seismological Research Letters, Scientific Reports, Tectonophysics, Earth and Space Science, and other international journals.
+* 1 Communications Earth and Environment
+* Publications in Geophysical Research Letters, Geophysical Journal International, Seismological Research Letters, Scientific Reports, Tectonophysics, Earth and Space Science, and other international journals.
 
-⸻
 
+---
 2026
 
 44. Seismic Swarms Occurrence Rate and b-value Mapping at Taupo Volcanic Zone
@@ -31,7 +32,7 @@ Giuseppe Petrillo, Eduardo Jagla, Eugenio Lippiello, Alberto Rosso
 
 Physical Review Letters 136, 148202 (2026)
 
-42. bEST–Universal Estimation of the Gutenberg-Richter b Value, with a MATLAB/Python Toolbox
+42. bEST-Universal Estimation of the Gutenberg-Richter b Value, with a MATLAB/Python Toolbox
 
 Matteo Taroni, Davide Zaccagnini, Ilaria Spassiani, Giuseppe Falcone, Giuseppe Petrillo, Giovanni Vitale, Anna Figlioli
 
@@ -57,7 +58,7 @@ Tectonophysics 926, 231137 (2026)
 
 38. NESTORE Algorithm: A Machine Learning Approach for Strong Aftershock Forecasting. A Comparison of California, Italy, Western Slovenia, Greece, and Japan Results
 
-Stefania Gentili, Piero Brondi, Giuseppe Davide Chiappetta, Giuseppe Petrillo, Jiancang Zhuang, et al.
+Stefania Gentili, Piero Brondi, Giuseppe Davide Chiappetta, Giuseppe Petrillo, Jiancang Zhuang, E. A. Anyfadi, F. Vallianatos, L. Caravella, E. Magrin, P. Comelli, R. Di Giovambattista
 
 Bulletin of Geophysics and Oceanography (2026)
 
@@ -67,11 +68,11 @@ Polyzois Bountzis, Eugenio Lippiello, Silvio Baccari, Giuseppe Petrillo
 
 Earth and Space Science 13, e2025EA004539 (2026)
 
-⸻
+---
 
 2025
 
-36. Interplay between Ground Deformation and Seismicity during the 2005–2025 Unrest at Campi Flegrei
+36. Interplay between Ground Deformation and Seismicity during the 2005-2025 Unrest at Campi Flegrei
 
 Cataldo Godano, Vincenzo Convertito, Anna Tramelli, Giuseppe Petrillo
 
@@ -93,7 +94,7 @@ Seismica 4(2) (2025)
 
 Simone Barani, Matteo Taroni, Davide Zaccagnino, Pietro Artale Harris, Giuseppe Petrillo
 
-Communications Earth & Environment 6, 674 (2025)
+Communications Earth and Environment 6, 674 (2025)
 
 32. Towards Recognizing the Waveform of Foreshocks
 
@@ -143,11 +144,11 @@ Stefania Gentili, Giuseppe Davide Chiappetta, Giuseppe Petrillo, Piero Brondi, J
 
 Geoscience Frontiers 16(3) (2025)
 
-⸻
+---
 
 2024
 
-24. Seismic Clusters and Fluids Diffusion: A Lesson from the 2018 Molise (Southern Italy) Earthquake Sequence
+24. Seismic Clusters and Fluids Diffusion: A Lesson from the 2018 Molise Southern Italy Earthquake Sequence
 
 Stefania Gentili, Piero Brondi, Giuliana Rossi, Monica Sugan, Giuseppe Petrillo, Jiancang Zhuang, Stefano Campanella
 
@@ -157,25 +158,25 @@ Earth, Planets and Space 76, 157 (2024)
 
 Cataldo Godano, Anna Tramelli, Eleftheria Papadimitriou, Vasileios Karakostas, Giuseppe Petrillo, Vincenzo Convertito
 
-Seismological Research Letters 95(6), 3557–3565 (2024)
+Seismological Research Letters 95(6), 3557-3565 (2024)
 
 22. Assessing the Predicting Power of GPS Data for Aftershock Forecasting
 
 Vincenzo M. Schimmenti, Giuseppe Petrillo, Alberto Rosso, Francois P. Landes
 
-Seismological Research Letters 95(6), 3243–3249 (2024)
+Seismological Research Letters 95(6), 3243-3249 (2024)
 
 21. Fluids-Triggered Swarm Sequence Revealed by a Non-Stationary Epidemic-like Description of Seismicity
 
 Giuseppe Petrillo, Takao Kumazawa, Ferdinando Napolitano, Paolo Capuano, Jiancang Zhuang
 
-Seismological Research Letters 95(6), 3207–3220 (2024)
+Seismological Research Letters 95(6), 3207-3220 (2024)
 
 20. Distribution Related to All Samples and Extreme Events in the ETAS Cluster
 
 Ilaria Spassiani, Giuseppe Petrillo, Jiancang Zhuang
 
-Seismological Research Letters 95(6), 3234–3242 (2024)
+Seismological Research Letters 95(6), 3234-3242 (2024)
 
 19. Bayesian Earthquake Forecasting Approach Based on the Epidemic Type Aftershock Sequence Model
 
@@ -199,15 +200,15 @@ Seismica 3(1) (2024)
 
 Giuseppe Petrillo, Jiancang Zhuang, Eugenio Lippiello
 
-Geophysical Journal International 236(3), 1332–1341 (2024)
+Geophysical Journal International 236(3), 1332-1341 (2024)
 
 15. Evaluating the Incompleteness Magnitude Using an Unbiased Estimate of the b-value
 
 Cataldo Godano, Giuseppe Petrillo, Eugenio Lippiello
 
-Geophysical Journal International 236(2), 994–1001 (2024)
+Geophysical Journal International 236(2), 994-1001 (2024)
 
-⸻
+---
 
 2023
 
@@ -229,7 +230,7 @@ Giuseppe Petrillo, Eugenio Lippiello
 
 Applied Sciences 13(8), 4891 (2023)
 
-⸻
+---
 
 2022
 
@@ -269,7 +270,7 @@ Eugenio Lippiello, Giuseppe Petrillo, Lucilla de Arcangelis
 
 Scientific Reports 12 (2022)
 
-⸻
+---
 
 2021
 
@@ -279,7 +280,7 @@ Eugenio Lippiello, Giuseppe Petrillo, Francois Landes, Alberto Rosso
 
 In Statistical Methods and Modeling of Seismogenesis, Chapter 5 (2021)
 
-⸻
+---
 
 2020
 
@@ -295,7 +296,7 @@ Giuseppe Petrillo, Eugenio Lippiello, Francois Landes, Alberto Rosso
 
 Nature Communications 11, 3010 (2020)
 
-⸻
+---
 
 2019
 
