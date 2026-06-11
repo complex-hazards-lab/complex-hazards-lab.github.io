@@ -45,7 +45,7 @@ Research interests:
 - Data analysis
 
 ### Alberto Rosso
-**Professor**  
+**Research Director, CNRS**  
 Laboratoire de Physique Théorique et Modèles Statistiques (LPTMS), Université Paris-Saclay
 
 Research interests:
@@ -55,17 +55,16 @@ Research interests:
 - Collective phenomena
 
 ### Eugenio Lippiello
-**Professor**  
+**Full Professor**  
 Università della Campania "Luigi Vanvitelli"
 
 Research interests:
-- Statistical seismology
-- Earthquake forecasting
-- Triggering processes
+- Statistical Seismology
+- Statistical Mechanics
 - Complex systems
 
 ### Jiancang Zhuang
-**Professor**  
+**Full Professor**  
 Institute of Statistical Mathematics (ISM), Tokyo
 
 Research interests:
@@ -103,8 +102,6 @@ Research interests:
 Research interests:
 - Statistical seismology
 - Earthquake clustering
-- Seismicity forecasting
-- Complex systems
 
 ---
 
@@ -115,7 +112,4 @@ Research interests:
 
 Research interests:
 - Statistical mechanics
-- Collective phenomena
 - Opinion dynamics
-- Voter models
-- Complex systems
