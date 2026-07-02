@@ -6,9 +6,8 @@ author_profile: false
 
 ## Complex Hazards Lab
 
-ENS de Lyon  
+Physics Laboratory of ENS Lyon (LPENSL) 
 CNRS  
-Laboratoire de Physique
 
 Giuseppe Petrillo  
 Email: giuseppe.petrillo@ens-lyon.fr
